@@ -1,0 +1,17 @@
+# Ignore system files
+AppData/
+NTUSER.DAT*
+*.log
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore Python-related files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore temporary and cache files
+*.bak
+*.swp
